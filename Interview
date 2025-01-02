@@ -2,6 +2,15 @@ what is json?
 Json is a file format
 JSON: Javascript Object Notation javascript object notation
 What is JSON used for?
-JSON is a file format that uses human-readable language to store and communicate data objects. 
+JSON is a file format that uses human-readable language to store and communicate data objects.
+
 JSON (JavaScript Object Notation) is defined as a file format used in object-oriented programming that uses 
 human-readable language, text, and syntax to store and communicate data objects between applications.
+javascript object notation is a file format that uses human readable language to store and communicate data objects.
+
+What is the difference between sql and mysql
+sql is a structured query language that uses for relational database management system where mysql is a software for relational database management system that actually use 
+sql query to store, read and edit data from the database.
+
+then what is actually myphpadmin?
+myphpadmin is the administrative tool for mysql
